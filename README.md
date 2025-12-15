@@ -1,9 +1,11 @@
 
 
-`loku-hud` klasörünü **masaüstüne** koy:
+resources -> loku-hud klasörünü fivem resources klasörü içine koy.
+
+`fivem-hud` klasörünü **masaüstüne** koy:
 
 ```bash
-cd loku-hud
+cd fivem-hud
 npm install
 npm run build
 
