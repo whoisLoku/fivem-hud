@@ -1,0 +1,5 @@
+{
+  "name": "loku-hud",
+  "description": "A fully responsive, highly customizable Heads-Up Display (HUD) for FiveM servers featuring dynamic status bars, speedometer.",
+  "requestFramePermissions": []
+}
