@@ -23,6 +23,10 @@ This will create a dist folder.
 ensure loku-hud
 ```
 
+`/hud` — Toggles the HUD on/off.
+
+`/cinematic` — Activates cinematic mode.
+
 **License: This script is free to use; anyone can use, modify, and distribute it as they wish.**
 
 #
@@ -44,6 +48,10 @@ Bu işlem sonunda dist klasörü oluşacaktır.
 ```bash
 ensure loku-hud
 ```
+
+`/hud` — HUD’u açıp kapatır.
+
+`/cinematic` — Sinematik modunu açar.
 
 **Lisans: Bu script serbest kullanım içindir; isteyen istediği şekilde kullanabilir, değiştirebilir ve dağıtabilir.**
 
